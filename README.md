@@ -10,7 +10,7 @@ At first user have to create an account in this and then user'll work properly.
 User can perform the following operations:
 - LogIn
     : Create an account
-    : Change user password using OPT
+    : Change user password using OTP
 - Post Content
 - Search Content
 - Select type of Content using Categories
